@@ -1,5 +1,5 @@
-from searching_framework import Problem, breadth_first_graph_search
-
+from searching_framework.utils import Problem;
+from searching_framework.uninformed_search import *;
 
 class Snake(Problem):
     def __init__(self, initial, red_apples):
@@ -16,7 +16,7 @@ class Snake(Problem):
         successors = dict()
 
         acts = ("ProdolzhiPravo", "SvrtiDesno", "SvrtiLevo")
-        directions = (0, 1, -1)
+        directions = (0, 1, -1) # 0 = право, 1 = десно, -1 = лево
         for action, direction in zip(acts, directions):
             rez = self.move(state, direction)
             if rez is not None:
