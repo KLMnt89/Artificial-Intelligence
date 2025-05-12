@@ -18,7 +18,10 @@ class LabyrinthProblem(Problem):
         directions = ((2,0),(3,0),(0,1),(0,-1),(-1,0))
         for action, direction in zip(actions,directions):
             rez = self.move(state,direction)
+
             if rez != None:
+
+                print (rez)
                 successors[action] = rez
 
         return successors
