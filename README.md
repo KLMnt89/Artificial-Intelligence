@@ -52,6 +52,6 @@ Artificial Intelligence (AI)/
   Работа со `DecisionTreeClassifier` од `scikit-learn`, анализа на длабочина, број листови и точност.
   
 - **Naive Bayes Clasificator**  
-  Класификација базирана на веројатности, анализа на грешки (FP/FN).
+  Класификација базирана на веројатности, анализа на грешки (FP/FN...).
 ---
 **GitHub:** [@KLMnt89](https://github.com/yourusername)  
