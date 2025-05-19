@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="591b59e8-a243-4b75-9da7-e4052849f1b6" name="Changes" comment="" />
+    <list default="true" id="591b59e8-a243-4b75-9da7-e4052849f1b6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,29 +42,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.car_acceptability_decision_tree.executor&quot;: &quot;Run&quot;,
-    &quot;Python.fishStatistics.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.solarFlare.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.solarFlareAdditionalTask.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10solarFlare.executor": "Run",
+    "Python.11solarFlare.executor": "Run",
+    "Python.12overfitting.executor": "Run",
+    "Python.car_acceptability_decision_tree.executor": "Run",
+    "Python.fishStatistics.executor": "Debug",
+    "Python.solarFlare.executor": "Debug",
+    "Python.solarFlareAdditionalTask.executor": "Run",
+    "Python.test.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Python.solarFlareAdditionalTask">
-    <configuration name="car_acceptability_decision_tree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Artificial-Intelligence" />
+}]]></component>
+  <component name="RunManager" selected="Python.12overfitting">
+    <configuration name="10wineQuality" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,12 +76,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Auditory/DecisionTrees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Auditory/DecisionTrees/car_acceptability_decision_tree.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\User\PycharmProjects\PythonProject\Artificial Intelligence (AI)\SecondMidterm\Additional\10wineQuality.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,8 +90,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="fishStatistics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Artificial-Intelligence" />
+    <configuration name="11solarFlare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +99,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees/fishStatistics.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/11solarFlare.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,8 +113,8 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="solarFlare" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Artificial-Intelligence" />
+    <configuration name="12overfitting" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,12 +122,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees/solarFlare.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/12overfitting.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -153,20 +159,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.12overfitting" />
+      <item itemvalue="Python.10wineQuality" />
+      <item itemvalue="Python.11solarFlare" />
+      <item itemvalue="Python.solarFlareAdditionalTask" />
+      <item itemvalue="Python.test" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.12overfitting" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.11solarFlare" />
+        <item itemvalue="Python.10wineQuality" />
         <item itemvalue="Python.solarFlareAdditionalTask" />
-        <item itemvalue="Python.solarFlare" />
-        <item itemvalue="Python.fishStatistics" />
-        <item itemvalue="Python.car_acceptability_decision_tree" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
+        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
       </set>
     </attachedChunks>
   </component>
@@ -180,6 +217,9 @@
       <workItem from="1747132917871" duration="5830000" />
       <workItem from="1747436069839" duration="747000" />
       <workItem from="1747436838148" duration="528000" />
+      <workItem from="1747479572328" duration="3478000" />
+      <workItem from="1747516174107" duration="4000" />
+      <workItem from="1747568144990" duration="3282000" />
     </task>
     <servers />
   </component>
@@ -215,13 +255,47 @@
           <line>69</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/10wineQuality.py</url>
+          <line>90</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/11solarFlare.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/test.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/11solarFlare.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/test.py</url>
+          <line>153</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional/12overfitting.py</url>
+          <line>56</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Artificial_Intelligence$solarFlareAdditionalTask.coverage" NAME="solarFlareAdditionalTask Coverage Results" MODIFIED="1747137964546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
-    <SUITE FILE_PATH="coverage/Artificial_Intelligence$fishStatistics.coverage" NAME="fishStatistics Coverage Results" MODIFIED="1747136568597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
+    <SUITE FILE_PATH="coverage/PythonProject$10solarFlare.coverage" NAME="10solarFlare Coverage Results" MODIFIED="1747480301581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
+    <SUITE FILE_PATH="coverage/PythonProject$11solarFlare.coverage" NAME="11solarFlare Coverage Results" MODIFIED="1747482954040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
     <SUITE FILE_PATH="coverage/Artificial_Intelligence$car_acceptability_decision_tree.coverage" NAME="car_acceptability_decision_tree Coverage Results" MODIFIED="1747133515060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Auditory/DecisionTrees" />
+    <SUITE FILE_PATH="coverage/PythonProject$12overfitting.coverage" NAME="12overfitting Coverage Results" MODIFIED="1747571407051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
+    <SUITE FILE_PATH="coverage/Artificial_Intelligence$fishStatistics.coverage" NAME="fishStatistics Coverage Results" MODIFIED="1747136568597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
     <SUITE FILE_PATH="coverage/Artificial_Intelligence$solarFlare.coverage" NAME="solarFlare Coverage Results" MODIFIED="1747136784350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/DecisionTrees" />
+    <SUITE FILE_PATH="coverage/PythonProject$test.coverage" NAME="test Coverage Results" MODIFIED="1747570767486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Artificial Intelligence (AI)/SecondMidterm/Additional" />
   </component>
 </project>
