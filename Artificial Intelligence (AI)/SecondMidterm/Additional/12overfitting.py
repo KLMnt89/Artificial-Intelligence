@@ -12,6 +12,7 @@ def del_col(dataset, col_index):
         dataset2.append(new_row)
     return dataset2
 
+
 def accuracy(predictions, test_Y):
     acc = 0
     for pred, actual in zip(predictions, test_Y):
@@ -43,9 +44,11 @@ if __name__ == "__main__":
 
     train_acc = accuracy(classifier1.predict(scaler.transform(train_x)), train_y)
     val_acc = accuracy(classifier1.predict(scaler.transform(val_x)), val_y)
+    a = val_acc * 0.15
 
-    if float(train_acc - val_acc) > 0.15:
-        train_x_new = del_col(train_set, col_index)
+    if float(train_acc) - val_acc > float(a):
+        train_x_new = del_col(train_x, col_index)
+        print(train_x_new[0])
         scaler.fit(train_x_new)
         classifier1.fit(scaler.transform(train_x_new), train_y)
         entry = entry[:col_index] + entry[col_index + 1:]
@@ -55,3 +58,5 @@ if __name__ == "__main__":
         print("Ne se sluchuva overfitting")
 
     print(classifier1.predict(scaler.transform([entry]))[0])
+
+    print()
