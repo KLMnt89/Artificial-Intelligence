@@ -1,16 +1,10 @@
+# Artificial Intelligence
 
-# 🤖 Artificial Intelligence (AI) – Labs & Exercises 2025
+A collection of exercises, lab implementations and additional problems completed
+during the **Artificial Intelligence** course at the Faculty of Computer
+Science and Engineering — Skopje (2024/2025, Winter Semester).
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
-![Progress](https://img.shields.io/badge/completion-100%25-brightgreen)
-![Last Update](https://img.shields.io/badge/year-2025-orange)
-
-> 🧠 Овој репозиториум содржи вежби, лабораториски примери и дополнителни задачи по предметот **Вештачка интелигенција**, организирани според првиот и вториот колоквиум.
-
----
-
-## 📁 Структура
-
+## 📁 Repository Structure
 ```
 Artificial Intelligence (AI)/
 ├── FirstMidterm/
@@ -23,35 +17,43 @@ Artificial Intelligence (AI)/
 ├── SecondMidterm/
 │   ├── Auditory/
 │   │   ├── DecisionTrees/
-│   │   └── NaiveBayesClasificator/
+│   │   └── NaiveBayesClassifier/
 │   ├── DecisionTrees/
-│   └── NaïveBayesClasificator/
+│   └── NaiveBayesClassifier/
 ```
 
+## 🛠️ Topics Covered
+
+**First Midterm — Search & CSP**
+- **Uninformed Search** — BFS, DFS, Uniform Cost Search
+- **Informed Search** — A*, Greedy Search, heuristic functions
+- **Constraint Satisfaction Problems (CSP)** — N-Queens, Map Coloring using `python-constraint`
+
+**Second Midterm — Machine Learning**
+- **Decision Trees** — `DecisionTreeClassifier` from `scikit-learn`, depth and accuracy analysis
+- **Naive Bayes Classifier** — probability-based classification, error analysis (FP/FN)
+
+## 🚀 How to Run
+
+All solutions are implemented in **Python**. Install dependencies first:
+```bash
+pip install scikit-learn python-constraint
+```
+
+Then run any script:
+```bash
+python filename.py
+```
+
+## 🎓 Academic Info
+
+| Field | Details |
+|---|---|
+| Course | Artificial Intelligence |
+| Institution | FCSE — Skopje |
+| Semester | Winter 2024/2025 |
+| Language | Python |
+
 ---
 
-## ✅ Содржина
-
-### 🧩 First Midterm
-
-- **Uninformed Search**  
-  BFS, DFS, Uniform Cost Search имплементации.
-  
-- **Informed Search**  
-  A*, Greedy Search, евристички функции.
-  
-- **Constraint Satisfaction Problems (CSP)**  
-  N-Queens, Map coloring со `python-constraint`.
-  
-- **Дополнителни задачи**  
-  Комбинација на Search и CSP решавања со Python.
-
-### 📊 Second Midterm
-
-- **Decision Trees**  
-  Работа со `DecisionTreeClassifier` од `scikit-learn`, анализа на длабочина, број листови и точност.
-  
-- **Naive Bayes Clasificator**  
-  Класификација базирана на веројатности, анализа на грешки (FP/FN...).
----
-**GitHub:** [@KLMnt89](https://github.com/yourusername)  
+*Part of my academic portfolio — see other projects on my [GitHub profile](https://github.com/KLMnt89).*
